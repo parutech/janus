@@ -1,2 +1,2 @@
 # Janus
-[Client-side] A cryptocurrency trading algorithm, optimized for buying interesting tokens on listing.
+A cryptocurrency trading algorithm, optimized for buying interesting tokens on listing.
