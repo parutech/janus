@@ -1,2 +1,2 @@
 # Janus
-A cryptocurrency trading algorithm, optimized for buying interesting tokens on listing.
+A cryptocurrency trading project, optimized for buying interesting tokens on listing.
